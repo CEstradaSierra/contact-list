@@ -1,3 +1,4 @@
+//nombre camilo estrada
 // funcion imprimir
 const imprimir= function(element){
     console.log(element);
